@@ -7,7 +7,9 @@ Projeto de um aplicativo Android realizado no processo seletivo da Horizon, e ta
 - SQLite    
 
 # Funcionalidades 
-○ Cadastrar o prontuário (dados clínicos) de um paciente  ○ Evitar cadastrar mais de um prontuário pro mesmo paciente  
+○ Cadastrar o prontuário (dados clínicos) de um paciente 
+
+○ Evitar cadastrar mais de um prontuário pro mesmo paciente  
 
 ○ Indicar se um paciente em específico deve ser tratado, posto em quarentena ou liberado  
 
