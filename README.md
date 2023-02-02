@@ -1,5 +1,5 @@
 # PacientesApp  
-Projeto de um aplicativo Android realizado no processo seletivo da Horizon, e também para fins de conhecimento em desenvolvimento mobile.  ]
+Projeto de um aplicativo Android realizado no processo seletivo da Horizon, e também para fins de conhecimento em desenvolvimento mobile.
 
 # Tecnologias utilizadas  
 - Java  
